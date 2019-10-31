@@ -1,0 +1,18 @@
+[2019-10-31 13:39:38.863] [exthost] [info] extension host started
+[2019-10-31 13:39:39.074] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:markdown"}
+[2019-10-31 13:39:39.076] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/extension-editing/dist/extension
+[2019-10-31 13:39:39.355] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features {"startup":false,"extensionId":{"value":"vscode.markdown-language-features","_lower":"vscode.markdown-language-features"},"activationEvent":"onLanguage:markdown"}
+[2019-10-31 13:39:39.355] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/markdown-language-features/dist/extension
+[2019-10-31 13:39:39.791] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2019-10-31 13:39:39.808] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-10-31 13:39:39.877] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2019-10-31 13:39:39.877] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-10-31 13:39:40.241] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2019-10-31 13:39:40.265] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2019-10-31 13:39:41.079] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2019-10-31 13:39:41.080] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-10-31 13:39:41.154] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"*"}
+[2019-10-31 13:39:41.154] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/kayboku/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/client/out/extension
+[2019-10-31 13:39:41.387] [exthost] [info] ExtensionService#_doActivateExtension HookyQR.beautify {"startup":true,"extensionId":{"value":"HookyQR.beautify","_lower":"hookyqr.beautify"},"activationEvent":"*"}
+[2019-10-31 13:39:41.388] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/kayboku/.vscode/extensions/hookyqr.beautify-1.5.0/extension
+[2019-10-31 13:39:42.193] [exthost] [info] eager extensions activated
